@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{AF51FC57-8EE7-4615-92BB-6D0875D13F96}|Default">
+  <MonoDevelop.Ide.ItemProperties.TodoREST.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E611856B-BEEB-4BA0-9F36-1D6B5A8C2142" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoREST/Views/TodoItemPage.xaml.cs">
+    <Files>
+      <File FileName="TodoREST/Constants.cs" Line="12" Column="2" />
+      <File FileName="TodoREST/TodoREST.cs" />
+      <File FileName="TodoREST/Data/RestService.cs" />
+      <File FileName="TodoREST/Views/TodoListPage.xaml.cs" Line="28" Column="16" />
+      <File FileName="Droid/Resources/Resource.designer.cs" />
+      <File FileName="TodoREST/Views/TodoListPage.xaml" Line="33" Column="61" />
+      <File FileName="TodoAPI/TodoAPI/Controllers/TodoItemsController.cs" />
+      <File FileName="TodoREST/Models/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="TodoREST/Views/TodoItemPage.xaml.cs" Line="27" Column="33" />
+      <File FileName="TodoREST/Data/TodoItemManager.cs" />
+      <File FileName="TodoREST/Data/IRestService.cs" />
+      <File FileName="TodoREST/Views/TodoItemPage.xaml" Line="17" Column="24" />
+      <File FileName="TodoREST/Views/ToDoListPageViewModel.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoREST" expanded="True">
+            <Node name="TodoREST" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="IRestService.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="TodoItemPage.xaml" expanded="True" />
+                <Node name="TodoListPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
